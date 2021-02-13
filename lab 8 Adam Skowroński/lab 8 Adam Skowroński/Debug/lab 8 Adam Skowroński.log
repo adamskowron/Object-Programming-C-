@@ -1,0 +1,11 @@
+﻿  Threshold.cpp
+c:\users\adam\desktop\nowy folder\lab 8 adam skowroński\lab 8 adam skowroński\lab 8 adam skowroński\threshold.cpp(12): warning C4018: '<': signed/unsigned mismatch
+c:\users\adam\desktop\nowy folder\lab 8 adam skowroński\lab 8 adam skowroński\lab 8 adam skowroński\threshold.cpp(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\adam\desktop\nowy folder\lab 8 adam skowroński\lab 8 adam skowroński\lab 8 adam skowroński\threshold.cpp(16): warning C4018: '<=': signed/unsigned mismatch
+  GammaCorrection.cpp
+c:\users\adam\desktop\nowy folder\lab 8 adam skowroński\lab 8 adam skowroński\lab 8 adam skowroński\gammacorrection.cpp(13): warning C4018: '<': signed/unsigned mismatch
+c:\users\adam\desktop\nowy folder\lab 8 adam skowroński\lab 8 adam skowroński\lab 8 adam skowroński\gammacorrection.cpp(15): warning C4018: '<': signed/unsigned mismatch
+c:\users\adam\desktop\nowy folder\lab 8 adam skowroński\lab 8 adam skowroński\lab 8 adam skowroński\gammacorrection.cpp(17): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+  Generating Code...
+  lab 8 Adam Skowroński.vcxproj -> C:\Users\Adam\Desktop\Nowy folder\lab 8 Adam Skowroński\lab 8 Adam Skowroński\Debug\lab 8 Adam Skowroński.exe
+  lab 8 Adam Skowroński.vcxproj -> C:\Users\Adam\Desktop\Nowy folder\lab 8 Adam Skowroński\lab 8 Adam Skowroński\Debug\lab 8 Adam Skowroński.pdb (Full PDB)
